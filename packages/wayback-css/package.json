@@ -12,7 +12,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "get-inline-styles": "^1.0.0",
-    "got": "^11.8.0",
+    "got": "^11.8.6",
     "is-blank": "^2.1.0",
     "strip-html-comments": "^1.0.0",
     "strip-wayback-toolbar": "^1.0.4",
